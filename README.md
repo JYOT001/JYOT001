@@ -1,7 +1,7 @@
 <h2><p align="center">કેમ છો😎, ​नमस्ते (Namaste)😁, I'm Jyot Dipakkumar Joshi
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></p>
   <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1000&color=6049C1&background=FFFFFF00&random=false&width=435&lines=Custom++P.C++Builder;Cyber+security+Consultant;Kali+user+%F0%9F%98%9C" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1000&color=6049C1&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Custom++P.C++Builder;Cyber+security+Consultant;Kali+user+%F0%9F%98%9C" alt="Typing SVG" /></a>
 </p>
   <p align="center">
   <a href="https://www.youtube.com/@alpharoman9602"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
