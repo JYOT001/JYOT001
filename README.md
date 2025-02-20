@@ -51,6 +51,17 @@ class SecuritySpecialist:
             "Custom PC Architecture"
         ]
 ```
+## 🎖️ DECORATIONS AND COMMENDATIONS
+
+```ascii
+╔═══════════ MILITARY HONORS ══════════╗
+║ ★ Cyber Warfare Excellence Medal    ║
+║ ★ Digital Combat Service Ribbon    ║
+║ ★ Joint Service Achievement Medal  ║
+║ ★ Cyber Defense Campaign Medal     ║
+║ ★ Information Warfare Badge        ║
+╚═══════════════════════════════════════╝
+```
 
 <!-- NEW SECTION: Custom PC Building Arsenal -->
 ## ⚡ CUSTOM PC ARCHITECTURE MATRIX
