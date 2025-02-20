@@ -17,7 +17,6 @@ AUTHORIZATION CODE: [REDACTED]
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:INIT] >>> ACCESSING SECURE TERMINAL...         │
-│ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST           │
 │ [SYS:AUTH] >>> USER: JYOT001                        │
 └──────────────────────────────────────────────────────┘
 ```
@@ -39,7 +38,6 @@ AUTHORIZATION CODE: [REDACTED]
 │ UNIT: Joint Cyber Operations Task Force         │
 │ SECURITY CLEARANCE: TS/SCI                      │
 │ STATUS: Active Duty                             │
-│ TIME ZONE: Asia/Kolkata (IST)                   │
 └──────────────────────────────────────────────┘
 ```
 
@@ -52,8 +50,6 @@ AUTHORIZATION CODE: [REDACTED]
 "neural_link": "ACTIVE",
 "threat_level": "MONITORING",
 "firewall_status": "ENGAGED",
-"last_update": "2025-02-20 01:17:29 PM IST",
-"timezone": "Asia/Kolkata"
   
 ```
 
@@ -68,8 +64,6 @@ class SecuritySpecialist:
 def __init__(self):
 self.codename = "JYOT001"
 self.status = "ACTIVE"
-self.last_login = "2025-02-20 01:17:29 PM IST"
-self.timezone = "Asia/Kolkata"
 self.specialization = 
 "Ethical Hacking",
 "Cyber Defense",
@@ -188,8 +182,6 @@ class DarkWebSpecialist(SecuritySpecialist):
 def __init__(self):
 super().__init__()
 self.alias = "ShadowWalker"
-self.last_active = "2025-02-20 01:17:29 PM IST"
-self.timezone = "Asia/Kolkata"
 <self.skills>
 "Deep Web Navigation",
 "Anonymity Techniques",
@@ -212,7 +204,6 @@ self.timezone = "Asia/Kolkata"
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:EXIT] >>> TERMINAL SESSION ACTIVE...            │
-│ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST            │
 │ [SYS:STAT] >>> ALL SYSTEMS OPERATIONAL               │
 │ [SYS:LOGS] >>> MONITORING AND LOGGING ENABLED        │
 └──────────────────────────────────────────────────────┘
