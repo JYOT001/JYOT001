@@ -3,13 +3,12 @@
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:INIT] >>> ACCESSING SECURE TERMINAL...          │
-│ [SYS:AUTH] >>> USER: JYOT001                        │
-          
+│ [SYS:AUTH] >>> USER: JYOT001                         │
 └──────────────────────────────────────────────────────┘
 ```
 
 <!-- Animated Avatar -->
-<div style="background: linear-gradient(45deg, #00ff00, #0000ff); padding: 3px; border-radius: 50%; display: inline-block;">
+<div style="background: linear-gradient(45deg, #00ff00, #0000ff); padding: 5px; border-radius: 50%; display: inline-block;">
     <img src="https://media.giphy.com/media/im1xKpjEwdQuk/giphy.gif" width="150" style="border-radius: 50%;">
 </div>
 
@@ -17,11 +16,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&height=100&lines=SYSTEM+BOOT:+JYOT001.exe;INITIALIZING+NEURAL+INTERFACE...;ACCESSING+MAINFRAME...;SECURITY+PROTOCOLS+ENGAGED)](https://git.io/typing-svg)
 
 <!-- Live System Status -->
-```js
+```json
 {
   "SYSTEM_STATUS": {
     "user_id": "JYOT001",
-    "timestamp": "2025-02-20 06:36:30 UTC",
     "security_level": "MAXIMUM",
     "neural_link": "ACTIVE",
     "threat_level": "MONITORING",
@@ -33,13 +31,9 @@
 <!-- Matrix-style divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🔒 SECURITY ARSENAL
+## 🛡️ SECURITY ARSENAL
 
-<table>
-<tr>
-<td width="60%">
-
-### 🛡️ Primary Systems
+### 🤖 Primary Systems
 ```python
 class SecuritySpecialist:
     def __init__(self):
@@ -53,17 +47,12 @@ class SecuritySpecialist:
         ]
 ```
 
-</td>
-<td width="40%">
-
 ### 📡 Active Protocols
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 
 <!-- Cyberpunk Stats Cards -->
 <div align="center">
@@ -92,24 +81,39 @@ class SecuritySpecialist:
 <!-- Live Activity Snake -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-<!-- Security Metrics -->
-<details>
-<summary>🔒 SECURITY CLEARANCE & METRICS</summary>
-<br>
-
-<!-- Trophy Case with Cyber Theme -->
-<img src="https://github-profile-trophy.vercel.app/?username=JYOT001&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%">
-
-<!-- Binary Pattern Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-</details>
-
 <!-- Real-time Visitor Counter -->
 <div align="center">
     <img src="https://profile-counter.glitch.me/JYOT001/count.svg" alt="Visitor Count" style="background-color: #000000; padding: 10px; border-radius: 5px;">
 </div>
 
+<!-- Dark Web Section -->
+## 🌐 DARK WEB OPERATIONS
+
+### 🕵️‍♂️ Dark Web Skills
+```python
+class DarkWebSpecialist(SecuritySpecialist):
+    def __init__(self):
+        super().__init__()
+        self.alias = "ShadowWalker"
+        self.skills = [
+            "Deep Web Navigation",
+            "Anonymity Techniques",
+            "Dark Web Marketplaces",
+            "Cryptocurrency Transactions"
+        ]
+```
+
+### 🌑 Dark Web Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white" />
+</div>
+
+<!-- Dark Web Animation -->
+<img src="https://media.giphy.com/media/3ohzdOrcdpiD26TPt6/giphy.gif" width="100%">
+
+<!-- Closing ASCII Art -->
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:EXIT] >>> TERMINAL SESSION ACTIVE...            │
