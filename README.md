@@ -1,8 +1,22 @@
 <div align="center">
 
 ```ascii
+════════════════════════════════════════════════════════════════
+INDIAN CYBER COMMAND - PERSONNEL FILE
+SENSITIVE COMPARTMENTED INFORMATION
+════════════════════════════════════════════════════════════════
+```
+
+```ascii
+CLASSIFICATION: TOP SECRET//SCI//NOFORN
+DOCUMENT NUMBER: TS-CYBERCOM-2025-0472-ALPHA
+AUTHORIZATION CODE: [REDACTED]
+```
+
+
+```ascii
 ┌──────────────────────────────────────────────────────┐
-│ [SYS:INIT] >>> ACCESSING SECURE TERMINAL...          │
+│ [SYS:INIT] >>> ACCESSING SECURE TERMINAL...         │
 │ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST           │
 │ [SYS:AUTH] >>> USER: JYOT001                        │
 └──────────────────────────────────────────────────────┘
@@ -16,19 +30,31 @@
 <!-- Cyberpunk Terminal Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&height=100&lines=SYSTEM+BOOT:+JYOT001.exe;INITIALIZING+NEURAL+INTERFACE...;ACCESSING+MAINFRAME...;SECURITY+PROTOCOLS+ENGAGED)](https://git.io/typing-svg)
 
+## OFFICIAL PERSONNEL RECORD
+```ascii
+┌─────────────── IDENTIFICATION DATA ──────────────┐
+│ OPERATIVE ID: JYOT001                           │
+│ RANK: Cyber Warrior                             │
+│ BRANCH: Indian Cyber Command                    │
+│ UNIT: Joint Cyber Operations Task Force         │
+│ SECURITY CLEARANCE: TS/SCI                      │
+│ STATUS: Active Duty                             │
+│ TIME ZONE: Asia/Kolkata (IST)                   │
+└──────────────────────────────────────────────┘
+```
+
 <!-- Live System Status -->
 ```json
-{
-  "SYSTEM_STATUS": {
-    "user_id": "JYOT001",
-    "security_level": "MAXIMUM",
-    "neural_link": "ACTIVE",
-    "threat_level": "MONITORING",
-    "firewall_status": "ENGAGED",
-    "last_update": "2025-02-20 01:17:29 PM IST",
-    "timezone": "Asia/Kolkata"
-  }
-}
+
+"SYSTEM_STATUS":
+"user_id": "JYOT001",
+"security_level": "MAXIMUM",
+"neural_link": "ACTIVE",
+"threat_level": "MONITORING",
+"firewall_status": "ENGAGED",
+"last_update": "2025-02-20 01:17:29 PM IST",
+"timezone": "Asia/Kolkata"
+  
 ```
 
 <!-- Matrix-style divider -->
@@ -39,28 +65,28 @@
 ### 🤖 Primary Systems
 ```python
 class SecuritySpecialist:
-    def __init__(self):
-        self.codename = "JYOT001"
-        self.status = "ACTIVE"
-        self.last_login = "2025-02-20 01:17:29 PM IST"
-        self.timezone = "Asia/Kolkata"
-        self.specialization = [
-            "Ethical Hacking",
-            "Cyber Defense",
-            "Network Security",
-            "Custom PC Architecture"
-        ]
+def __init__(self):
+self.codename = "JYOT001"
+self.status = "ACTIVE"
+self.last_login = "2025-02-20 01:17:29 PM IST"
+self.timezone = "Asia/Kolkata"
+self.specialization = 
+"Ethical Hacking",
+"Cyber Defense",
+"Network Security",
+"Custom PC Architecture"
+        
 ```
 ## 🎖️ DECORATIONS AND COMMENDATIONS
 
 ```ascii
 ╔═══════════ MILITARY HONORS ══════════╗
-║ ★ Cyber Warfare Excellence Medal    ║
+║ ★ Cyber Warfare Excellence Medal   ║
 ║ ★ Digital Combat Service Ribbon    ║
 ║ ★ Joint Service Achievement Medal  ║
 ║ ★ Cyber Defense Campaign Medal     ║
 ║ ★ Information Warfare Badge        ║
-╚═══════════════════════════════════════╝
+╚═══════════════════════════════════╝
 ```
 
 <!-- NEW SECTION: Custom PC Building Arsenal -->
@@ -68,22 +94,22 @@ class SecuritySpecialist:
 
 ### 🔧 Hardware Engineering Protocols
 ```python
-class CustomPCArchitect:
-    def __init__(self):
-        self.build_level = "MASTER"
-        self.expertise = [
-            "Extreme Overclocking",
-            "Custom Water Cooling",
-            "Silicon Binning",
-            "RGB Synchronization"
-        ]
-        self.workstation_specs = {
-            "CPU": "Neural Core i9-13900K",
-            "GPU": "CyberForce RTX 4090",
-            "RAM": "64GB Quantum DDR5-6000",
-            "Cooling": "Custom Cryo Loop v2.0",
-            "PSU": "Plasma Core 1500W Titanium"
-        }
+class CustomPCArchitect
+def __init__(self)
+self.build_level = "MASTER"
+self.expertise 
+"Extreme Overclocking",
+"Custom Water Cooling",
+"Silicon Binning",
+"RGB Synchronization"
+        
+self.workstation_specs 
+"CPU": "Neural Core i9-13900K",
+"GPU": "CyberForce RTX 4090",
+"RAM": "64GB Quantum DDR5-6000",
+"Cooling": "Custom Cryo Loop v2.0",
+"PSU": "Plasma Core 1500W Titanium"
+        
 ```
 
 ### 🌡️ Thermal Management Matrix
@@ -159,17 +185,17 @@ class CustomPCArchitect:
 ### 🕵️‍♂️ Dark Web Skills
 ```python
 class DarkWebSpecialist(SecuritySpecialist):
-    def __init__(self):
-        super().__init__()
-        self.alias = "ShadowWalker"
-        self.last_active = "2025-02-20 01:17:29 PM IST"
-        self.timezone = "Asia/Kolkata"
-        self.skills = [
-            "Deep Web Navigation",
-            "Anonymity Techniques",
-            "Dark Web Marketplaces",
-            "Cryptocurrency Transactions"
-        ]
+def __init__(self):
+super().__init__()
+self.alias = "ShadowWalker"
+self.last_active = "2025-02-20 01:17:29 PM IST"
+self.timezone = "Asia/Kolkata"
+<self.skills>
+"Deep Web Navigation",
+"Anonymity Techniques",
+"Dark Web Marketplaces",
+"Cryptocurrency Transactions"
+        
 ```
 
 ### 🌑 Dark Web Tools
@@ -186,7 +212,7 @@ class DarkWebSpecialist(SecuritySpecialist):
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:EXIT] >>> TERMINAL SESSION ACTIVE...            │
-│ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST           │
+│ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST            │
 │ [SYS:STAT] >>> ALL SYSTEMS OPERATIONAL               │
 │ [SYS:LOGS] >>> MONITORING AND LOGGING ENABLED        │
 └──────────────────────────────────────────────────────┘
