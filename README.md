@@ -3,7 +3,8 @@
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:INIT] >>> ACCESSING SECURE TERMINAL...          │
-│ [SYS:AUTH] >>> USER: JYOT001                         │
+│ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST           │
+│ [SYS:AUTH] >>> USER: JYOT001                        │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -23,7 +24,9 @@
     "security_level": "MAXIMUM",
     "neural_link": "ACTIVE",
     "threat_level": "MONITORING",
-    "firewall_status": "ENGAGED"
+    "firewall_status": "ENGAGED",
+    "last_update": "2025-02-20 01:17:29 PM IST",
+    "timezone": "Asia/Kolkata"
   }
 }
 ```
@@ -39,6 +42,8 @@ class SecuritySpecialist:
     def __init__(self):
         self.codename = "JYOT001"
         self.status = "ACTIVE"
+        self.last_login = "2025-02-20 01:17:29 PM IST"
+        self.timezone = "Asia/Kolkata"
         self.specialization = [
             "Ethical Hacking",
             "Cyber Defense",
@@ -95,6 +100,8 @@ class DarkWebSpecialist(SecuritySpecialist):
     def __init__(self):
         super().__init__()
         self.alias = "ShadowWalker"
+        self.last_active = "2025-02-20 01:17:29 PM IST"
+        self.timezone = "Asia/Kolkata"
         self.skills = [
             "Deep Web Navigation",
             "Anonymity Techniques",
@@ -117,6 +124,7 @@ class DarkWebSpecialist(SecuritySpecialist):
 ```ascii
 ┌──────────────────────────────────────────────────────┐
 │ [SYS:EXIT] >>> TERMINAL SESSION ACTIVE...            │
+│ [SYS:TIME] >>> 2025-02-20 01:17:29 PM IST           │
 │ [SYS:STAT] >>> ALL SYSTEMS OPERATIONAL               │
 │ [SYS:LOGS] >>> MONITORING AND LOGGING ENABLED        │
 └──────────────────────────────────────────────────────┘
