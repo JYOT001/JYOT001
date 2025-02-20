@@ -1,84 +1,124 @@
 <div align="center">
-  
-# Ħøш'ƨ Ɠøïŋǥ❔😏 | ▼△▼△ 𝙸𝚃'𝚜 𝙼𝚎 𝙹𝚢𝚘𝚝 𝙳𝚒𝚙𝚊𝚔𝚔𝚞𝚖𝚊𝚛 𝙹𝚘𝚜𝚑𝚒 ▼△▼△
 
-<img src="https://media.giphy.com/media/im1xKpjEwdQuk/giphy.gif" width="70">
+```ascii
+┌──────────────────────────────────────────────────────┐
+│ [SYS:INIT] >>> ACCESSING SECURE TERMINAL...          │
+│ [SYS:AUTH] >>> USER: JYOT001                        │
+│ [SYS:TIME] >>> UTC: 2025-02-20 06:36:30            │
+└──────────────────────────────────────────────────────┘
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&pause=1000&color=6049C1&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Custom++P.C++Builder;Cyber+Crime+Consultant;Kali+user+%F0%9F%98%9C;Ethical+Hacker;Security+Researcher;Tech+Enthusiast)](https://git.io/typing-svg)
-
-<!-- Profile Views Counter with custom style -->
-<img src="https://komarev.com/ghpvc/?username=JYOT001&style=for-the-badge&color=6049C1&label=PROFILE+VIEWS" alt="Profile Views">
-
-<!-- Social Media Badges -->
-<p>
-  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<!-- Animated Skills Section -->
-<h2>💻 Technologies & Tools</h2>
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=red-hat&logoColor=white)
-
-<!-- GitHub Stats with Animations -->
-<details>
-<summary>📊 GitHub Statistics</summary>
-<br>
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JYOT001&show_icons=true&theme=tokyonight)](https://github.com/JYOT001)
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JYOT001&theme=tokyonight)](https://github.com/JYOT001)
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JYOT001&layout=compact&theme=tokyonight)](https://github.com/JYOT001)
-
-</details>
-
-<!-- Activity Graph -->
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=JYOT001&theme=react-dark)](https://github.com/JYOT001)
-
-<!-- Cool Banner Image -->
-<img src="https://github.com/JYOT001/JYOT001/assets/104615289/1a87cfe5-808e-4c90-9ff1-68d1190be491" width="100%">
-
-<!-- Snake Animation -->
-![Snake animation](https://github.com/JYOT001/JYOT001/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Spotify Now Playing -->
-[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YourSpotifyUsername)
-
-<!-- Trophy Stats -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=JYOT001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- Animated Avatar -->
+<div style="background: linear-gradient(45deg, #00ff00, #0000ff); padding: 3px; border-radius: 50%; display: inline-block;">
+    <img src="https://media.giphy.com/media/im1xKpjEwdQuk/giphy.gif" width="150" style="border-radius: 50%;">
 </div>
 
----
+<!-- Cyberpunk Terminal Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&height=100&lines=SYSTEM+BOOT:+JYOT001.exe;INITIALIZING+NEURAL+INTERFACE...;ACCESSING+MAINFRAME...;SECURITY+PROTOCOLS+ENGAGED)](https://git.io/typing-svg)
 
-<!-- Additional Interactive Elements -->
-<details>
-<summary>🎯 Current Focus</summary>
-<br>
-  
-- 🔭 Working on Cybersecurity Projects
-- 🌱 Learning Advanced Penetration Testing
-- 👯 Looking to collaborate on Security Tools Development
-- 💬 Ask me about PC Building and Cybersecurity
-  
-</details>
+<!-- Live System Status -->
+```js
+{
+  "SYSTEM_STATUS": {
+    "user_id": "JYOT001",
+    "timestamp": "2025-02-20 06:36:30 UTC",
+    "security_level": "MAXIMUM",
+    "neural_link": "ACTIVE",
+    "threat_level": "MONITORING",
+    "firewall_status": "ENGAGED"
+  }
+}
+```
 
-<details>
-<summary>🌟 Featured Projects</summary>
-<br>
-  
-<!-- You can add your featured projects here with badges and descriptions -->
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=JYOT001&repo=YourRepoName&theme=tokyonight)](https://github.com/JYOT001/YourRepoName)
-  
-</details>
+<!-- Matrix-style divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Fun Footer -->
+## 🔒 SECURITY ARSENAL
+
+<table>
+<tr>
+<td width="60%">
+
+### 🛡️ Primary Systems
+```python
+class SecuritySpecialist:
+    def __init__(self):
+        self.codename = "JYOT001"
+        self.status = "ACTIVE"
+        self.specialization = [
+            "Ethical Hacking",
+            "Cyber Defense",
+            "Network Security",
+            "Custom PC Architecture"
+        ]
+```
+
+</td>
+<td width="40%">
+
+### 📡 Active Protocols
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<!-- Cyberpunk Stats Cards -->
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=JYOT001&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=0D1117&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JYOT001&theme=highcontrast&hide_border=true&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&background=0D1117" width="48%" />
+</div>
+
+<!-- Neural Network Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 📡 NETWORK CONNECTIONS
+
+<!-- Social Links with Cyberpunk Style -->
+<div align="center">
+  <a href="https://linkedin.com/in/YourLinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black">
+  </a>
+  <a href="https://twitter.com/YourTwitter">
+    <img src="https://img.shields.io/badge/Twitter-00ff00?style=for-the-badge&logo=twitter&logoColor=black">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-00ff00?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
+</div>
+
+<!-- Live Activity Snake -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<!-- Security Metrics -->
+<details>
+<summary>🔒 SECURITY CLEARANCE & METRICS</summary>
+<br>
+
+<!-- Trophy Case with Cyber Theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=JYOT001&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%">
+
+<!-- Binary Pattern Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
+</details>
+
+<!-- Real-time Visitor Counter -->
+<div align="center">
+    <img src="https://profile-counter.glitch.me/JYOT001/count.svg" alt="Visitor Count" style="background-color: #000000; padding: 10px; border-radius: 5px;">
+</div>
+
+```ascii
+┌──────────────────────────────────────────────────────┐
+│ [SYS:EXIT] >>> TERMINAL SESSION ACTIVE...            │
+│ [SYS:STAT] >>> ALL SYSTEMS OPERATIONAL               │
+│ [SYS:LOGS] >>> MONITORING AND LOGGING ENABLED        │
+└──────────────────────────────────────────────────────┘
+```
+
+<!-- Matrix Rain Effect -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 </div>
